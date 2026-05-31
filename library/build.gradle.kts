@@ -23,7 +23,7 @@ android {
     namespace = "me.zhanghai.android.libarchive"
     buildToolsVersion = "36.1.0"
     compileSdk = 36
-    ndkVersion = "29.0.14206865"
+    ndkVersion = "28.2.13676358"
     enableKotlin = false
 
     defaultConfig {
